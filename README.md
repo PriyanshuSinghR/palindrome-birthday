@@ -21,8 +21,7 @@
 
 ## Screenshots
 
-![stock](https://user-images.githubusercontent.com/52795506/205506153-0194154e-2ab7-4cde-b2cc-183012664847.jpg)
-
+![pale](https://user-images.githubusercontent.com/52795506/205506222-0079ae9a-9ad9-4fc3-a6cd-043a15926bba.jpg)
 
 ## Connect with me
 
