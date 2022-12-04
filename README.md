@@ -19,6 +19,11 @@
 
 [Live Project](https://priyanshu-palindrome-birthday.netlify.app/)
 
+## Screenshots
+
+![stock](https://user-images.githubusercontent.com/52795506/205506153-0194154e-2ab7-4cde-b2cc-183012664847.jpg)
+
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu844/)
